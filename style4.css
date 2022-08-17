@@ -1,0 +1,26 @@
+body {
+	text-align: center;
+	text-transform: capitalize;
+	font-style: italic;
+	font-weight: bold;
+	margin-top: 150px;
+	background-color: lavender;
+}
+
+html {
+	 /* background: url(background.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+    background-size: cover;*/
+}
+
+.btn {
+	border-radius: 300px;
+	border-color: green;
+	cursor: pointer;
+}
+
+.btn:hover {
+	transform: scale(1.1);
+}
